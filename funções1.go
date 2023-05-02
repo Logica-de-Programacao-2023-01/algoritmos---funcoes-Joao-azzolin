@@ -25,4 +25,4 @@ func main() {
 	fmt.Printf("A média é: %d.", result)
 
 }
-não consegui transferir do git bash
+
